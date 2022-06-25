@@ -1,4 +1,4 @@
-### Hello world, i'm Thiago! 📎
+### Hello world, i'm Thiago! 🤗
 
 Sou estudante em Análise e Desenvolvimento de Sistemas.
 
@@ -13,10 +13,3 @@ Aqui vai um pouco sobre mim:
 - 🪛 Framework que tenho experiência: Bootstrap
 - 🔬 Tenho conhecimento em Marketing, Design e Edição Audiovisual.
 - 📸 Meu hobby favorito é fotografar.
-
-
-<div>
-<a href="https://github.com/ThiagoTerrinha">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?ThiagoTerrinha&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?ThiagoTerrinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div
