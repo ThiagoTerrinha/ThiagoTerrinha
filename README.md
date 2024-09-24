@@ -1,15 +1,15 @@
 ### Hello world, i'm Thiago! 🤗
 
-Sou estudante em Análise e Desenvolvimento de Sistemas.
+Sou desenvolvedor fullstack TypeScript, formado em Análise e Desenvolvimento de Sistemas.
 
 
 Aqui vai um pouco sobre mim:
 
 - 🥰 Apaixonado em Front-End.
-- 👨‍💻 Curso atualmente Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
-- ⚙️ Atualmente estou estudando: HTML | CSS | JavaScript | React
+- 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas na Pontifícia Universidade Católica de Minas Gerais (PUC Minas) em julho de 2024.
+- ⚙️ Atualmente com experiência nas linguagens: JavaScript | TypeScript | HTML | CSS
+- 🪛 Framework que tenho experiência: NextJS | React | React Native | NestJS | PrismaORM
 - 📝 Metodologia: Scrum
-- 🛠 Ferramentas que tenho experiência: Visual Studio Code | Figma | Rive | Adobe Photoshop | Adobe Illustrator | Adobe After Effects | Adobe Premiere | Blender
-- 🪛 Framework que tenho experiência: Bootstrap
+- 🛠 Ferramentas complementares que tenho experiência: Visual Studio Code | Figma | Rive | Adobe Photoshop | Adobe Illustrator | Adobe After Effects | Adobe Premiere | Blender
 - 🔬 Tenho conhecimento em Marketing, Design e Edição Audiovisual.
-- 📸 Meu hobby favorito é fotografar.
+- 📸 Meu hobby favorito é fotografar e jogar.
